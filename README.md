@@ -11,7 +11,7 @@ visit the website [here.](https://ajitverma15.github.io/Interactive-Portfolio/)
 ## Sections:
 💥 About me\
 💥 Education\
-💥 Certification\
+💥 Certifications\
 💥 Skills\
 💥 Projects\
 💥 Contact me
