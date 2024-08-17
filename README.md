@@ -6,7 +6,7 @@ Later on add some javascript for animation and designing.
 visit the website [here.](https://ajitverma15.github.io/Interactive-Portfolio/)
 
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/53833570/87217363-f9e6ff00-c365-11ea-9e1a-4d017964f2b4.gif)
+![ezgif com-optimize](ezgif.com-video-to-gif-converter.gif)
 
 ## Sections:
 💥 About me\
